@@ -7,7 +7,6 @@ import (
 )
 
 func checkPasswordStrength(password string) error {
-	// Check if password length is at least 8 characters
 	if len(password) < 8 {
 		return fmt.Errorf("password should be at least 8 characters long")
 	}

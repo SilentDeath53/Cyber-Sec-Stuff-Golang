@@ -1,0 +1,1 @@
+This example uses a static key for simplicity. you should generate a secure random key and handle it securely, in real world. Additionally, consider using authenticated encryption (e.g., AES-GCM) for enhanced security.

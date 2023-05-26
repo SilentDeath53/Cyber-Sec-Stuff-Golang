@@ -1,7 +1,8 @@
 # Cyber Sec Stuff Golang
 The Go language is a language that is becoming more and more popular and is increasingly used in the field of cybersec. And it's a language that I believe will be used more in the future, even as popular as python. I present to you a few examples that will serve different needs and circumstances. Enjoy!
 
-@ İmportant points:
+@ Important points:
+
 Web applications play a vital role in our digital lives, facilitating various activities such as online banking, shopping, and communication. However, the increasing reliance on web applications also exposes us to potential security vulnerabilities. To ensure the safety of user data and protect against cyber threats, it is crucial to conduct comprehensive and robust security testing. This article emphasizes the significance of having extensive, rule-based, and tailored code for real-life scenarios, with a focus on Cross-Site Scripting (XSS), SQL Injection, and Cross-Site Request Forgery (CSRF) testing.
 
 1- Cross-Site Scripting (XSS) Testing:
